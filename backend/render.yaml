@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: portfolio-backend
+    env: node
+    plan: free
+    repo: https://github.com/PothaLokesh/auth-role-app
+    branch: main
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    rootDir: backend
+    envVars:
+      - key: MONGO_URI
+        value:mongodb+srv://Lokesh:Lokesh2003@cluster0.mho8njx.mongodb.net/?appName=Cluster0
+      - key: JWT_SECRET
+        value:b7f4e9c3a2d8f6e1c9a0b5d7e3f2a1c6d4e8b9f0a3c7d6e2b1f9a0c5e7d3b6f1
