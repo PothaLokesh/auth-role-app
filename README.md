@@ -247,15 +247,6 @@ Planned enhancements:
 
 Feel free to ⭐ star the repo and showcase it in your portfolio.
 
----
 
----
 
-Would you like me to also:
-
-* Write a **LinkedIn post** announcing this project?
-* Generate a **project preview banner** (image)?
-* Generate **sample Q&A** if recruiter asks about it?
-
-🙂
 
