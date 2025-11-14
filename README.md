@@ -1,9 +1,3 @@
-Absolutely — here’s a **professional, portfolio-worthy README.md** tailored for your project and internship impression.
-Just copy this into your project root as:
-
-📄 `README.md`
-
----
 
 # 🚀 Role-Based Authentication Full Stack Application
 
@@ -264,3 +258,4 @@ Would you like me to also:
 * Generate **sample Q&A** if recruiter asks about it?
 
 🙂
+
